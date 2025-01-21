@@ -24,17 +24,6 @@ Notifications for incoming messages.
 
 Play voice messages directly within the app.
 
-# File Structure
-
-Voice-messaging-app-main/
-├── app/                   # Core application logic
-├── static/                # Static assets (CSS, JS, images)
-├── templates/             # HTML templates
-├── utils/                 # Utility functions
-├── requirements.txt       # List of Python dependencies
-├── README.md              # Project documentation
-└── LICENSE                # License for the project
-
 # Installation and Setup
 
 # Prerequisites
