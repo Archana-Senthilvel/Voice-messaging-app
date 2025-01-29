@@ -8,11 +8,11 @@ The Voice Messaging App is a cutting-edge communication platform that enables us
 
 ## Prerequisites
 
-Python 3.8 or higher
+- Python 3.8 or higher
 
-pip (Python package manager)
+- pip (Python package manager)
 
-A supported database (e.g., SQLite, MySQL, or PostgreSQL)
+- A supported database (e.g., SQLite, MySQL, or PostgreSQL)
 
 ## Steps
 
